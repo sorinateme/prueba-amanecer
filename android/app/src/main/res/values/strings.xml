@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Amanecer Salud Renal</string>
+    <string name="title_activity_main">Amanecer Salud Renal</string>
+    <string name="package_name">org.amanecer.saludrenal</string>
+    <string name="custom_url_scheme">org.amanecer.saludrenal</string>
+</resources>
